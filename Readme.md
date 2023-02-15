@@ -14,7 +14,8 @@ example :
 example:
 > python run_predict_ma.py --model_name 'alger-ia/dziribert' --language 'ma' --output_dir 'alger-ia/dziribert-ma' 
 
-The results for our (Masakhane team) can be found in :
+## The results for our (Masakhane team) can be found in :
+
 [TaskA](TaskA/results-taskA)
 
 [TaskB](TaskB/results-taskB)
