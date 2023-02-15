@@ -1,9 +1,11 @@
 *.ipynb
+.ipynb_checkpoints/
 TaskA/*ipynb
 .ipynb_checkpoints/*
-TaskB/.ipynb_checkpoints/*
-TaskA/.ipynb_checkpoints/*
-TaskC/.ipynb_checkpoints/*
-TaskB/*ipynb
+TaskB/*.ipynb
+!Data_exploration.ipynb
+!TaskB/Data_exploration.ipynb
+
+
 
 
