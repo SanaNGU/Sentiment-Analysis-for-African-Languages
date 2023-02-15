@@ -8,6 +8,7 @@ TaskB/*.ipynb
 !TaskC/Data_exploration.ipynb
 !TaskA/Data_exploration.ipynb
 !ensemble.ipynb
+TaskB/res/*
 
 
 
