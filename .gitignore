@@ -5,6 +5,11 @@ TaskA/*ipynb
 TaskB/*.ipynb
 !Data_exploration.ipynb
 !TaskB/Data_exploration.ipynb
+!TaskC/Data_exploration.ipynb
+!TaskA/Data_exploration.ipynb
+!ensemble.ipynb
+
+
 
 
 
