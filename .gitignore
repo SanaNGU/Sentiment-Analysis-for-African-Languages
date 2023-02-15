@@ -1,4 +1,4 @@
-#*.ipynb
+*.ipynb
 TaskA/*ipynb
 .ipynb_checkpoints/*
 TaskB/.ipynb_checkpoints/*
