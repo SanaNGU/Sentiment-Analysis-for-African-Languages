@@ -1,0 +1,8 @@
+#*.ipynb
+TaskA/*ipynb
+.ipynb_checkpoints/*
+TaskB/.ipynb_checkpoints/*
+
+TaskA/.ipynb_checkpoints/*
+TaskC/.ipynb_checkpoints/*
+

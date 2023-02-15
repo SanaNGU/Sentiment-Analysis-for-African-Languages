@@ -1,0 +1,14 @@
+
+ 2023-02-14 13:23:49 
+```
+              precision    recall  f1-score   support
+
+     neutral     0.4590    0.3500    0.3972        80
+    positive     0.6550    0.6757    0.6652       444
+    negative     0.4672    0.4777    0.4724       224
+
+    accuracy                         0.5816       748
+   macro avg     0.5271    0.5011    0.5116       748
+weighted avg     0.5778    0.5816    0.5788       748
+```
+```
